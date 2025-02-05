@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
 
     if (size != 2)
     {
-        printf("This example requres exactly 2 processes but given: %d", size);
+        printf("This example requires exactly 2 processes but given: %d", size);
         MPI_Finalize();
         return 1;
     }

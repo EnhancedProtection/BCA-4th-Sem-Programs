@@ -1,7 +1,7 @@
 # Deep Learning - [UDS23401J]
 
 ## 📌 Introduction
-This directory contains programs for the Deep Learning course, subject code UDS23401J.
+This directory contains programs for the **Deep Learning** subject (subject code: **UDS23401J**).
 
 ## ⚙️ Prerequisites
 - Linux environment based on Debian (You can also use Windows)
